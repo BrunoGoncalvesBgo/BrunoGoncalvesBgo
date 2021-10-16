@@ -4,10 +4,10 @@
 - 📖 I’m currently learning Java 11 and AWS
 - 🤓 I'm experienced with C#, Groovy and Java
 
-<div>
+<<div align="center">
   <a href="https://github.com/SbBrunoNT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SbBrunoNT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbBrunoNT&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SbBrunoNT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbBrunoNT&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
