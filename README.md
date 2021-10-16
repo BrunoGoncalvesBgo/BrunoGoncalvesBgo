@@ -10,10 +10,9 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbBrunoNT&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Bruno-Groovy" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
-  <img align="center" alt="Bruno-CSharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruno-Aws" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Bruno-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Bruno-Groovy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
+  <img align="center" alt="Bruno-CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 </div>
   
