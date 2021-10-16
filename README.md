@@ -4,7 +4,7 @@
 - 📖 I’m currently learning Java 11 and AWS
 - 🤓 I'm experienced with C#, Groovy and Java
 
-<div align="left">
+<div>
   <a href="https://github.com/SbBrunoNT">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SbBrunoNT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbBrunoNT&layout=compact&langs_count=7&theme=dark"/>
