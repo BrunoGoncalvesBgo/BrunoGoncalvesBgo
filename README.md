@@ -3,7 +3,7 @@
 - 🙂 I’m currently working with Java and Groovy
 - 📖 I’m currently learning Java 11 and AWS
 - 🤓 I'm experienced with C#, Groovy and Java
-
+- 🤓 I worked creating developing groovy scripts to Atlassian Products such as Jira and Confluence
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SbBrunoNT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbBrunoNT&layout=compact&langs_count=7&theme=dark"/>
