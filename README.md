@@ -1,7 +1,7 @@
 ## Hello there, I'm Bruno Oliveira!
 
 - 🙂 I’m currently working with Java and Groovy
-- 📖 I’m currently learning Java 11 and AWS
+- 📖 I’m currently learning Java 21 and AWS
 - 🤓 I'm experienced with C#, Groovy and Java
 - 🤓 I worked creating and developing groovy scripts to Atlassian Products in previous experiences such as Jira and Confluence
  <div>
